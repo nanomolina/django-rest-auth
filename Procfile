@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn django-rest-auth.wsgi
