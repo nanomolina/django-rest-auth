@@ -1,6 +1,0 @@
---editable .
-responses>=0.5.0
-djangorestframework-jwt
-django-allauth
-gunicorn
-django-heroku
