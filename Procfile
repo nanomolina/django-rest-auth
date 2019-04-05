@@ -1,1 +1,1 @@
-web: gunicorn django-rest-auth.wsgi
+web: gunicorn django-rest-auth.wsgi --log-file -
